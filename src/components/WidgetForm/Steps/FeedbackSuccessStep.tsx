@@ -32,7 +32,7 @@ function FeedbackSuccessStep({
           />
         </svg>
 
-        <span className="text-xl mt-2">Agradecemos o feedback!</span>
+        <span className="text-xl mt-2">Agradecemos o Feedback!</span>
 
         <button
           type="button"
